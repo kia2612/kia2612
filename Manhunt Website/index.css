@@ -1,0 +1,56 @@
+body{
+    position: relative;
+    height: 95vh;
+    width: 95vw;
+    background: url('48aae691-346c-4e1b-a53c-500ed609e4dc12-cover-game.webp');
+    background-size: cover;
+    background-image: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+fieldset{
+    background-color: rgba(17, 15, 15, 0.966);
+    display: block;
+    align-self: center;
+    margin-left: 18%;
+    margin-right: 18%;
+    border-radius: 9px;
+}
+p{
+    color: rgb(231, 224, 224);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13;
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(202, 18, 18);
+    font-size: 150%;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 35%;
+    height: auto;
+    text-align: center;
+    padding: 10px 20px;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    color: rgb(212, 30, 30);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 300%;
+}
+#titulo{
+   background-color:rgba(22, 20, 20, 0.966);
+   justify-content: center;
+   align-items: center;
+   height: max-content;
+   
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(202, 18, 18);
+    font-size: 130%;
+}
+
