@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kia2612
 - 👀 I’m interested in Computers in general. My main focus is about programming and hardware;
 - 🌱 I’m currently learning Python. But, I wish to learn C and C++;
-- 💞️ I’m looking to collaborate on multiple areas of programming. Mainly in Artificial Intelligence and robotics;
+- 💞️ I’m looking to collaborate on multiple areas of programming. Mainly in Artificial Intelligence, data science and robotics;
 - 🖥️ I wish to study Computer Science or Computer Engineering.
 
 <!---
